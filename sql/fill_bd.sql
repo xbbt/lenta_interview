@@ -1,3 +1,5 @@
+-- создание и заполнение таблиц для отладки задач по sql
+
 create table warehouses (
     whs_id int PRIMARY KEY,
     frmt int,
